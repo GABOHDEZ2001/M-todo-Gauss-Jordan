@@ -6,5 +6,10 @@ El método de Gauss-Jordan consiste en obtener el valor de las incógnitas a tra
 
 
 
-### Ejemplo Java
-[Ejemplo 1](https://github.com/GABOHDEZ2001/EliminacionGaussiana/blob/main/EliminacionGaussiana.java)
+### Ejemplo Java (Gauss Jordan)
+[Ejemplo 1]([https://github.com/GABOHDEZ2001/EjemploGaussJordan/blob/main/GaussJordan.java])
+
+#### Equipo:
+
+- Gabriel Hernández Zavala
+  

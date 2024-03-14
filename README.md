@@ -1,1 +1,1 @@
-# M-todo-Gauss-Jordan
+# Metodo-Gauss-Jordan

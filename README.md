@@ -2,4 +2,5 @@
 
 ## Descripcion
 
-El método de Gauss también se conoce como eliminación gaussiana. Este método es muy importante, ya que te permite resolver matrices de una manera sistemática y siguiendo un proceso paso por paso. Este método se utiliza en muchas áreas, que se apoyan en su increíble poder para resolver ecuaciones: ciencia, tecnología, economía e, incluso, ciencias sociales. 
+El método de Gauss-Jordan consiste en obtener el valor de las incógnitas a través de una serie de sumas, restas y multiplicaciones de los diversos renglones de una matriz. Ahora refuerza tus conocimientos con la aplicación de este método. Deberás hacer los ejercicios paso a paso; considera que en la vida real existen algoritmos que se resuelven por computadora, donde los resultados se obtienen prácticamente de forma inmediata.
+
